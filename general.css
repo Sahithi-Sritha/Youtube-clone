@@ -2,6 +2,7 @@ body {
   margin: 0px;
   margin-top: 80px;
   margin-left: 100px;
+  margin-right: 25px;
   background-color: rgb(244, 244, 244);
 }
 
@@ -70,4 +71,9 @@ body {
   display: inline-block;
 
   align-items: top;
+}
+
+.redirect-text{
+    text-decoration: none;
+    color: black;
 }
